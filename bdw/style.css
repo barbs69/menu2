@@ -1,0 +1,35 @@
+:root {
+    --cor_botao: rgb(255, 0, 255);
+    --cor_fundo: pink;
+}
+
+body{
+    background-color:blueviolet
+}
+
+section {
+    background-color: var(--cor_fundo);
+    height: 1000px;
+    text-align: center;
+    border-radius: 35px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#botao {
+    font-size: 35px;
+    background-color: var(--cor_botao);
+}
+
+#botao1 {
+    font-size: 35px;
+    background-color: var(--cor_botao);
+}
+
+#botao2 {
+    font-size: 35px;
+    background-color: var(--cor_botao);
+}
